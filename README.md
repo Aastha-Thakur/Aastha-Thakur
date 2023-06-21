@@ -6,7 +6,7 @@
 - 💬 Ask me about **ML,DL,AI,Web Dev**
 
 - 📫 How to reach me **01aasthathakur@gmail.com**
-
+- Know about me -
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aastha-thakur-b9268a229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aastha-thakur-b9268a229/" height="30" width="40" /></a>
